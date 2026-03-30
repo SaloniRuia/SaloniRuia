@@ -1,3 +1,10 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=9B5DE5&cursorColor=9B5DE5&vCenter=true&lines=Hi+I'm+Saloni+Ruia!;AI+%7C+ML+%7C+%7C+NLP+%7C+Researcher+%7C+Innovator" />
+</h1>
+
+<h3 align="center">Aspiring Software Developer | Java | BTech in Computer Science</h3>
+
+---
 # About Me:
 **I’m currently working on**<br>• Intent and trajectory prediction in autonomous driving<br>• LLM-based threat generation experiments<br>• Federated learning approaches for anti-money-laundering systems<br><br> **I’m looking to collaborate on**<br>• Research-oriented ML projects<br>• Real-world problem statements in AI (autonomous systems, security, finance)<br>• Open-source projects where meaningful contributions matter more than just activity<br><br>**I’m looking for help with**<br>• Advanced model optimisation and experimentation strategies<br>• Structuring research work at a deeper level<br>• Writing cleaner, more efficient ML code<br><br>**I’m currently learning**<br>• Hyperparameter optimisation and model performance tuning<br>• How large-scale ML systems are designed<br>• Turning complex ideas into working implementations<br>
 
