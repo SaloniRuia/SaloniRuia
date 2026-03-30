@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=9B5DE5&cursorColor=deb2af&lines=Hi+I'm+Saloni+Ruia!;AI+%7C+ML+%7C+NLP+%7C+Researcher+%7C+Innovator"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=9B5DE5&cursorColor=F15BB5&lines=Hi+I'm+Saloni+Ruia!;AI+%7C+ML+%7C+NLP+%7C+Researcher+%7C+Innovator"
   />
 </h1>
 
