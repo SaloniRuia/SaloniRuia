@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=F97316&cursorColor=F97316&lines=Hi+I'm+Saloni+Ruia!;AI+%7C+ML+%7C+NLP+%7C+Researcher+%7C+Innovator"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=EAB308&cursorColor=EAB308&lines=Hi+I'm+Saloni+Ruia!;AI+%7C+ML+%7C+NLP+%7C+Researcher+%7C+Innovator"
   />
 </h1>
 <h3 align="center">Aspiring Software Developer | Java | BTech in Computer Science</h3>
